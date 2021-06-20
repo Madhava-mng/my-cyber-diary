@@ -2,6 +2,7 @@
 
 **File System:**
 
+```bash
 > %SYSTEMROOT%\System32\drivers\etc\hosts -> dns
 > %SYSTEMROOT%\System32\drivers\etc\networks  -> network
 > %SYSTEMROOT%\system32\config\SAM	-> shadow
@@ -10,6 +11,7 @@
 > %ALLUSERSPROFILE%\Start Menu\Programs\Startup\
 > %USERPROFILE%\Start Menu\Programs\Startup\
 > %SYSTEMROOT%\Prefetch\ -> exe logs
+```
 
 ---
 
