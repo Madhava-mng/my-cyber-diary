@@ -93,14 +93,16 @@ $ cat forloop.sh | sh
 
 ```bash
 $ cat | sh
-for i in 
+for ((i=0; i<10 ;i++))
 do
 	echo $i
 done
 ```
 
 ```bash
-$ while read i;do echo $i;done < test.txt
+$ while read -r i;do
+	echo $i
+done < test.txt
 ```
 
 ```bash
