@@ -1,19 +1,19 @@
 # redirection
 
 ```ruby
-	  	[attacker]
-					|
-					|
-  		  <8080>
-					|
-					|
-	  	[redirector]
-					|
-					|
-  			 <80>
-					|
-					|
-	  	 [victom]
+[attacker]
+ |
+ |
+<8080>
+ |
+ |
+[redirector]
+ |
+ |
+<80>
+ |
+ |
+[victom]
 ```
 
 **WARNING: Make sure your FW is configured perfectly. when you are using publically. and https too.**
