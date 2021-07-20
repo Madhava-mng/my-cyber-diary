@@ -74,14 +74,14 @@ $ echo "${#var}"
 
 ```bash
 $ git commit -m "Initial commit"
-$ git commit -m Initial\ cimmit
+$ git commit -m Initial\ commit
 ```
 
 ```bash
-$ '
-single
+$ echo '
+multi
 line
-comment
+echo
 '
 ```
 
