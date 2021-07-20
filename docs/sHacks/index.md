@@ -34,6 +34,19 @@ $ alias update_pkgm="sudo apt updata;sudo apt upgrade"
 ```
 
 ```bash
+$ > new.txt
+written
+^D
+$ >> new.txt
+another line
+^D
+$ cat new.txt
+written
+another line
+$
+```
+
+```bash
 $ cat >> ~/.bashrc
 gclone(){
 	git clone https://github.com/Myname/$1
