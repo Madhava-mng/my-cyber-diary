@@ -2,7 +2,7 @@
 
 * Remote Command Injection
 
-** vuln code
+**vuln code**
 
 see [commits](https://github.com/php/php-src/commit/c730aa26bd52829a49f2ad284b181b7e82a68d7d) in git hub.
 
@@ -17,7 +17,7 @@ convert_to_string(enc);
 More [Info](https://news-web.php.net/php.internals/113838)
 
 
-** Poc in python
+**Poc in python**
 
 ```python
 
@@ -34,7 +34,11 @@ More [Info](https://news-web.php.net/php.internals/113838)
 ```
 
 
-[Download](/pocs/exploit-php-8.1.0-dev.py) python script.
+[Raw](https://raw.githubusercontent.com/Madhava-mng/my-cyber-diary/master/docs/pocs/exploit-php-8.1.0-dev.py) python script use curl or wget utils.
+
+```sh
+wget https://raw.githubusercontent.com/Madhava-mng/my-cyber-diary/master/docs/pocs/exploit-php-8.1.0-dev.py
+```
 
 
 
