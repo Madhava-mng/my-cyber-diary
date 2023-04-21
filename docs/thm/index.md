@@ -1,3 +1,4 @@
 
-[Opacity writeup](Opacity.md)
-[surfer](Surfer.md)
+* [Opacity writeup](Opacity.md)
+
+* [surfer](Surfer.md)
