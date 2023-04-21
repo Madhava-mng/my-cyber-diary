@@ -174,7 +174,7 @@ Version: 1.0.0
   - Initial Release
 ```
 
-oh waste of time. there is nothing, Let fire up the burb and carture the requests
+oh waste of time. there is nothing, Let fire up the burb and capture the requests
 
 
 #### I got the request after I click the `Export to PDF` button
@@ -215,7 +215,7 @@ CGI Version: CGI/1.1
 System Uptime: 09:18:32 up 39 min, 0 users, load average: 0.00, 0.00, 0.00
 
 ```
-well It gives the pdf for the local url , so I going to try `http://10.10.201.95/internal/admin.php` and resent the request
+well It gives the pdf for the local url , so I going to try `http://127.0.0.1/internal/admin.php` and resent the request
 
 I got the flag `****{*************************}`
 
