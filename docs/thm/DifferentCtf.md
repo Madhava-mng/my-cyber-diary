@@ -80,26 +80,31 @@ I got the directory `/a***********` that have `/a************/wordlist.txt` and 
 I think its a stegnography and the `wordlist.txt` used for crack it.
 
 I quickly tried it `while read i; do echo $(steghide extract -sf  austrailian-bulldog-ant.jpg -p $i 2>/dev/null);done < wordlist.txt `
-* Waste of time, So there is tool available to crack , I searcg it via apt 
+
+* Waste of time, So there is tool available to crack , I search it via apt 
+
 ```ruby
 $ apt search steg | grep crack
 
 WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
 
 stegcracker/parrot,parrot,now 2.1.0-1 all
+
 ```
 
-*To Install stegcracker*
+To Install stegcracker
 
 `$ apt install stegcracker`
 
 
-### Time to crack 
+### Time to crack
+
 `$ stegcracker austrailian-bulldog-ant.jpg wordlist.txt -t 200`
 
 It cracked on `1*************`
 
 I Got the file `something.out` It has some base64 encoded
+
 
 ```bash
 ⇝ cat austrailian-bulldog-ant.jpg.out | base64 -d
