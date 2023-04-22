@@ -117,7 +117,7 @@ once I Logged in It's site file tree, well try to upload the shell
 $ ftp 10.10.224.181
 Connected to 10.10.224.181.
 220 (vsFTPd 3.0.3)
-Name (10.10.224.181:black): hakanftp
+Name (10.10.224.181:black): ha******
 331 Please specify the password.
 Password:
 230 Login successful.
@@ -158,7 +158,7 @@ The requested URL was not found on this server.
 Apache/2.4.29 (Ubuntu) Server at adana.thm Port 80
 ```
 
-so I download the `wp-config.php` by ` ftp> get wp-config.php` 
+so I download the `wp-config.php` by `ftp> get wp-config.php` 
 And I dot the password for *phpmyadmin*
 
 once I logged in there are two folders `phpmyadmin` and `phpmyadmin1`
