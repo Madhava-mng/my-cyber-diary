@@ -43,6 +43,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 * It's a default Apache Page
 * Quick Dir bruteforce on 80
+
 ```ruby
 gobuster dir -u http://10.10.11.48 -w /usr/share/wordlists/seclists/Discovery/Web-Content/raft-small-words.txt 
 ===============================================================
@@ -86,10 +87,11 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 /.html.printable      (Status: 403) [Size: 276]  
 /.htm.LCK             (Status: 403) [Size: 276]  
 Progress: 25177 / 43008 (58.54%)                ^C
-[!] Keyboard interrupt detected, terminating.
-                                              
+[!] Keyboard interrupt detected, terminating.                                           
 ```
-Nothing is there
+
+
+* Nothing is there
 
 ### let's try with UDP scan
 
