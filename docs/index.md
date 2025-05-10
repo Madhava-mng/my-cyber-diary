@@ -20,7 +20,8 @@
 ## Try Hack Me / Hack the Box
 * [write ups](thm/index.md)
 
-
+## Cheet sheets
+* [xss](heetsheet/xss.md)
 
 
 ***This Rough documents may have typing mistakes!.***
