@@ -21,7 +21,7 @@
 * [write ups](thm/index.md)
 
 ## Cheet sheets
-* [xss](heetsheet/xss.md)
+* [xss](cheetsheet/xss.md)
 
 
 ***This Rough documents may have typing mistakes!.***
