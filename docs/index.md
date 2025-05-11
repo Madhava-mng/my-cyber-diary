@@ -22,6 +22,7 @@
 
 ## Cheet sheets
 * [xss](cheetsheet/xss.md)
+* [sql](cheetsheet/sql.md)
 
 
 ***This Rough documents may have typing mistakes!.***
