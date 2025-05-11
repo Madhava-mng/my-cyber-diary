@@ -1,6 +1,13 @@
 # my cyber diary
 
 
+## 🏆 Tryhackme Achievements
+<img src="https://tryhackme-badges.s3.amazonaws.com/blackmoonswidow.png" alt="Your Image Badge" />
+
+## 🏆 Hack The Box Achievements
+[![HTB Profile](https://www.hackthebox.com/badge/image/396497)](https://app.hackthebox.com/profile/396497)
+
+
 ## **redhat Hacks:**
 * [Covering Tracks](redhat/cover_tracks.md)
 * [Simple Scripts](redhat/scripts.md)
