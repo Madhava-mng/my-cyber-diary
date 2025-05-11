@@ -1,6 +1,4 @@
 # my-cyber-diary
 my logs
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=200811" style='border:none;'></iframe>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/blackmoonswidow.png" alt="Your Image Badge" />
 **[[Go to documentation](https://madhava-mng.github.io/my-cyber-diary/)]**
