@@ -32,4 +32,4 @@
 * [sql](cheetsheet/sql.md)
 
 
-***This Rough documents may have typing mistakes!.***
+***This Rough documents may have typo ***
