@@ -1,35 +1,60 @@
-# my cyber diary
+# 📓 Cyber Security Diary  
+**Managed by Madhava Prasad Ranadev**  
 
+---
 
-## 🏆 Tryhackme Achievements
-<img src="https://tryhackme-badges.s3.amazonaws.com/blackmoonswidow.png" alt="Your Image Badge" />
+## 🚀 Developer Profiles  
+### Python Packages  
+[![PyPI](https://img.shields.io/badge/PyPI-Profile-blue?logo=pypi)](https://pypi.org/user/Madhava-mng/)  
 
-## 🏆 Hack The Box Achievements
-[![HTB Profile](https://www.hackthebox.com/badge/image/396497)](https://app.hackthebox.com/profile/396497)
+### Ruby Gems  
+[![RubyGems](https://img.shields.io/badge/RubyGems-Profile-red?logo=rubygems)](https://rubygems.org/profiles/Madhava-mng)  
 
+---
 
-## **redhat Hacks:**
-* [!Covering Tracks](https://pngtree.com/freepng/floor-child-footprints-shoe-prints_5458240.html)](redhat/cover_tracks.md)
-* [![Simple Scripts](https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg)](redhat/scripts.md)
-* [![redirector]()](redhat/redirect.md)
-* [![windows](https://pngimg.com/uploads/windows_logos/windows_logos_PNG31.png)](redhat/windows.md)
+## 🏆 Security Achievements  
+### TryHackMe  
+<img src="https://tryhackme-badges.s3.amazonaws.com/blackmoonswidow.png" alt="TryHackMe Badge" width="150"/>  
+[View Profile](https://tryhackme.com/p/blackmoonswidow)  
 
-## shell hacks
-* [sHacks](sHacks/index.md)
+### Hack The Box  
+[![HTB Profile](https://www.hackthebox.com/badge/image/396497)](https://app.hackthebox.com/profile/396497)  
 
-## POC
-* [Poc php-8.1.0-dev](pocs/php-8.1.0-dev.md)
+---
 
-## Solidity
-* [Solidity](solidity/index.md)
+## 🔥 Red Team
+### Red Hat Hacks  
+- [Covering Tracks](redhat/cover_tracks.md)  
+- [Simple Scripts](redhat/scripts.md)  
+- [HTTP Redirector](redhat/redirect.md)  
+- [Windows Exploits](redhat/windows.md)  
 
+### Shell Techniques  
+- [Shell Hacks Collection](sHacks/index.md)  
 
-## Try Hack Me / Hack the Box
-* [write ups](thm/index.md)
+### Proof of Concepts  
+- [PHP 8.1.0-dev RCE](pocs/php-8.1.0-dev.md)  
 
-## Cheet sheets
-* [xss](cheetsheet/xss.md)
-* [sql](cheetsheet/sql.md)
+---
 
+## 💻 Development  
+### Smart Contracts  
+- [Solidity Tutorials & Notes](solidity/index.md)  
 
-***This Rough documents may have typo ***
+---
+
+## 📝 CTF Writeups  
+### TryHackMe / HackTheBox  
+- [Challenge Solutions](thm/index.md)  
+
+---
+
+## 📚 Cheat Sheets  
+- [XSS Payloads](cheetsheet/xss.md)  
+- [SQL Injection](cheetsheet/sql.md)  
+
+---
+
+> *"This knowledge base contains raw research notes - may include typos and work-in-progress materials."*  
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?logo=github)](https://github.com/Madhava-mng)  
