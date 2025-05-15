@@ -9,10 +9,10 @@
 
 
 ## **redhat Hacks:**
-* [Covering Tracks](redhat/cover_tracks.md)
-* [Simple Scripts](redhat/scripts.md)
-* [redirector](redhat/redirect.md)
-* [windows](redhat/windows.md)
+* [!Covering Tracks](https://pngtree.com/freepng/floor-child-footprints-shoe-prints_5458240.html)](redhat/cover_tracks.md)
+* [![Simple Scripts](https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg)](redhat/scripts.md)
+* [![redirector]()](redhat/redirect.md)
+* [![windows](https://pngimg.com/uploads/windows_logos/windows_logos_PNG31.png)](redhat/windows.md)
 
 ## shell hacks
 * [sHacks](sHacks/index.md)
