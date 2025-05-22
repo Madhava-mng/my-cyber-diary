@@ -1,0 +1,20 @@
+#!/bin/python3
+
+import cmd
+
+class Hexer(cmd.Cmd):
+    prompt = '[0x0]> '
+
+    def do_exit(self, arg):
+        return True
+    def default(self,line):
+        try:
+            self.prompt = '[' + hex(eval(line)) + ']> '
+            print(f'{hex(eval(line))} , {eval(line)}')
+        except NameError:
+            print(f"'{line}' Not Found!")
+
+Hexer().cmdloop()
+
+
+
