@@ -58,3 +58,7 @@
 > *"This knowledge base contains raw research notes - may include typos and work-in-progress materials."*  
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?logo=github)](https://github.com/Madhava-mng)  
+
+
+🔗 **Let’s connect!** Discuss CTFs, security, Performance Testing or collaboration:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/madhavaprasad-r/)
